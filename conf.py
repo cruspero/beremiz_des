@@ -94,26 +94,26 @@ html_show_copyright = True
 
 #-- Options for LaTeX output ---------------------------------------------
 
-latex_elements = {
+#latex_elements = {
 # The paper size ('letterpaper' or 'a4paper').
-'papersize': 'a4paper',
+#'papersize': 'a4paper',
 
 # The font size ('10pt', '11pt' or '12pt').
-'pointsize': '10pt',
+#'pointsize': '10pt',
 
 # Additional stuff for the LaTeX preamble.
 #'preamble': '',
 
 # Latex figure (float) alignment
 #'figure_align': 'htbp',
-}
+#}
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
 #latex_logo = None
 
 # For "manual" documents, if this is true, then toplevel headings are parts,
 # not chapters.
-latex_use_parts = True
+#latex_use_parts = True
 
 # If true, show page references after internal links.
 #latex_show_pagerefs = False
