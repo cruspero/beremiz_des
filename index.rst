@@ -6,8 +6,13 @@
 Обучающие уроки по программированию в среде Beremiz
 ===================================================
 
+
 .. toctree::
    :maxdepth: 2
-   :caption: Содержание:
+   :caption: Contents:
 
-   beremiz/index
+   channels/index
+   modbus/index
+   archieve/index
+   modules/index  
+

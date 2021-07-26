@@ -17,11 +17,11 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'BRIC PLC'
+project = 'Beremiz_sofi'
 copyright = '2021, Snema-Service Ufa'
-author = 'Airat Girfanov Kamil Ganeev'
+author = 'Ruslan Kid'
 # The full version, including alpha/beta/rc tags
-release = '1.1.0'
+release = '1.0.0'
 master_doc = 'index'
 
 # -- General configuration ---------------------------------------------------
@@ -64,9 +64,9 @@ html_context = {
         ],
      }
 
-html_logo = 'about.svg'
+html_logo = 'about_brz_logo.png'
 
-html_favicon = 'favicon.svg'
+html_favicon = 'brz.ico'
 
 # Additional templates that should be rendered to pages, maps page names to
 # template names.
