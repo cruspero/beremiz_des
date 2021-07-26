@@ -1,1 +1,1 @@
-Docs for bric and modules will be placed here: https://ber.readthedocs.io/ru/latest/# 
+Docs for bric and modules will be placed here: https://beremiz-des-sofi.readthedocs.io/
