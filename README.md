@@ -1,0 +1,1 @@
+Docs for bric and modules will be placed here: https://ber.readthedocs.io/ru/latest/# 
